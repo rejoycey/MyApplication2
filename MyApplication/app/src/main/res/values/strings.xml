@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">未来三天的天气</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="t"> 星期五 己亥年【猪年】 四月廿七</string>
+    <string name="h"> 星期六 己亥年【猪年】 四月廿八</string>
+    <string name="d"> 星期日 己亥年【猪年】 四月廿九</string>
+</resources>
